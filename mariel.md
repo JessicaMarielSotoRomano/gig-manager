@@ -1,3 +1,4 @@
 # Mariel Soto
 Este es mi primer git push
-ocupacion 
+ocupacion estudiante
+cambios desde rama develop
